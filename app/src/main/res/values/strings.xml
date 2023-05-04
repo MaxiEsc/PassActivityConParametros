@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentConParametrosEnActivity</string>
+    <string name="title">Ingrese el nombre a quien desea saludar</string>
+    <string name="name">Mi nombre es:</string>
+    <string name="saludo">Saludar</string>
+    <string name="back">Volver</string>
+</resources>
